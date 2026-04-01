@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KinoveaVideoAnalysis>
+  <FormatVersion>2.0</FormatVersion>
+  <Producer>Kinovea.2025.1</Producer>
+  <OriginalFilename>【MOVE】アニメティックダッシュ Animetic dash MOTION ACTOR INC Hideki Sugiguchi 株式会社モーションアクター</OriginalFilename>
+  <FullPath>C:\Users\Maychua\Downloads\【MOVE】アニメティックダッシュ Animetic dash MOTION ACTOR INC Hideki Sugiguchi 株式会社モーションアクター.mp4</FullPath>
+  <ImageSize>1280;720</ImageSize>
+  <Aspect>Auto</Aspect>
+  <Rotation>Rotate0</Rotation>
+  <Mirror>false</Mirror>
+  <Demosaicing>None</Demosaicing>
+  <Deinterlacing>false</Deinterlacing>
+  <StabilizationTrack>00000000-0000-0000-0000-000000000000</StabilizationTrack>
+  <BackgroundColor>0;255;255;255</BackgroundColor>
+  <AverageTimeStampsPerFrame>512</AverageTimeStampsPerFrame>
+  <CaptureFramerate>30</CaptureFramerate>
+  <UserFramerate>30</UserFramerate>
+  <FirstTimeStamp>512</FirstTimeStamp>
+  <SelectionStart>116224</SelectionStart>
+  <SelectionEnd>121856</SelectionEnd>
+  <TimeOrigin>116224</TimeOrigin>
+  <Calibration>
+    <CalibrationLine>
+      <Length>100</Length>
+      <Segment>
+        <A>640;360</A>
+        <B>740;360</B>
+      </Segment>
+      <Origin>0;100</Origin>
+      <Offset>0;0</Offset>
+      <Axis>LineHorizontal</Axis>
+    </CalibrationLine>
+    <CalibrationDrawingId>00000000-0000-0000-0000-000000000000</CalibrationDrawingId>
+    <Unit Abbreviation="px">Pixels</Unit>
+  </Calibration>
+  <CoordinateSystem id="76cbf92b-9b2e-47e8-bff0-6dd07e6a30de" name="Coordinate system 1">
+    <Position>640;360</Position>
+    <ReferenceTimestamp>0</ReferenceTimestamp>
+    <Visible>false</Visible>
+    <ShowGrid>true</ShowGrid>
+    <ShowGraduations>true</ShowGraduations>
+    <DrawingStyle>
+      <Color Key="line color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </CoordinateSystem>
+  <TestGrid id="5818664c-4815-4b3e-92f5-6d57388075bd" name="Camera test grid 1">
+    <Visible>false</Visible>
+    <ShowHorizontalAxis>true</ShowHorizontalAxis>
+    <ShowVerticalAxis>true</ShowVerticalAxis>
+    <ShowFraming>true</ShowFraming>
+    <ShowThirds>false</ShowThirds>
+    <DrawingStyle>
+      <Color Key="color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </TestGrid>
+  <Trackability>
+    <TrackableDrawing id="76cbf92b-9b2e-47e8-bff0-6dd07e6a30de" name="Coordinate system 1">
+      <TrackablePoint key="0">
+        <ReferenceTimestamp>116224</ReferenceTimestamp>
+        <ReferenceValue>640;360</ReferenceValue>
+      </TrackablePoint>
+    </TrackableDrawing>
+  </Trackability>
+  <VideoFilters />
+</KinoveaVideoAnalysis>
